@@ -13,3 +13,7 @@ Tools & graphs for your server logs.
 Sleuthmore
 ----------
 General research tool & ui.
+
+Nexus Broadcaster
+-----------------
+ElectronJS Audio Broadcasting Suite
