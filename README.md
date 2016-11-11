@@ -2,11 +2,11 @@ projects
 ========
 Some personal projects.
 
-hordes
+Hordes
 ------
-News and media research tool.
+News & media research tool.
 
-lograph
+Lograph
 -------
 Tools & graphs for your server logs.
 
