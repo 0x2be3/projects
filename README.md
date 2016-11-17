@@ -17,3 +17,8 @@ General research tool & ui.
 Nexus Broadcaster
 -----------------
 ElectronJS Audio Broadcasting Suite
+
+
+Theme Camp
+-----------------
+Firefox Web Extension for Freedcamp
